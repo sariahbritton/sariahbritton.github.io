@@ -2,7 +2,7 @@
 title: "sariahbritton.github.io"
 ---
 
-This is a Quarto website. Today is September 17th, 2026
+Today is September 17th, 2026
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
